@@ -21,7 +21,7 @@ http: ^1.2.1
 
 ## Download the APK
 
-You can download the latest version of the APK from the [Releases](app-release.apk) page.
+You can download the latest version of the APK from the [Releases](resplash.apk) page.
 
 Or scan qrcode to download
 
